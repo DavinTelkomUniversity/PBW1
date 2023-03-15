@@ -1,6 +1,10 @@
 # Telu Hub
 
-Ganti baris di atas dengan judul/nama aplikasi tubes kalian.. Jika sudah, ganti paragraf ini dengan penjelasan singkat mengenai aplikasi tubes yang kalian buat. Beri tahu pembaca, repository ini isinya aplikasi apa, siapa target penggunanya, dan apa saja fitur utamanya. Penjelasan dibuat **minimal** 250 karakter. Selanjutnya ganti susunan tim di bawah sesuai data kelompok.
+Untuk mengumpulkan perbincangan, tanya jawab sesama mahasiswa. Semacam stackoverflow dan brainly dapat memberikan pertanyaan dan saling menjawab. Pengguna dapat memberikan pertanyaan, menambahkan tags, menjawab pertanyaan, dan memberi validasi kepada penjawab. 
+
+Aplikasi ini ditujukan untuk mahasiswa Telkom University untuk saling sharing pengetahuan tanpa ada batasan prodi, jadi seluruh mahasiswa lintas prodi apapun dapat saling bertanya dan memberi jawaban. 
+
+Repository ini berisi work space untuk Qwertym yaitu pengembang - pengembang dari aplikasi ini, yang berisi : 
 
 ### Susunan Tim
 
