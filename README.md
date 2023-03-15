@@ -5,7 +5,7 @@ Aplikasi ini dirancang untuk mengumpulkan perbincangan, tanya jawab sesama mahas
 Aplikasi ini ditujukan untuk mahasiswa Telkom University untuk saling sharing pengetahuan tanpa ada batasan prodi, jadi seluruh mahasiswa lintas prodi apapun dapat saling bertanya dan memberi jawaban. 
 
 Repository ini berisi work space untuk Qwertym yaitu pengembang - pengembang dari aplikasi ini, yang berisi : 
-
+ 
 ### Susunan Tim
 
 NIM        | Nama                    | Username Github
