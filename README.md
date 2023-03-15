@@ -1,6 +1,6 @@
 # Telu Hub
 
-Untuk mengumpulkan perbincangan, tanya jawab sesama mahasiswa. Semacam stackoverflow dan brainly dapat memberikan pertanyaan dan saling menjawab. Pengguna dapat memberikan pertanyaan, menambahkan tags, menjawab pertanyaan, dan memberi validasi kepada penjawab. 
+Aplikasi ini dirancang untuk mengumpulkan perbincangan, tanya jawab sesama mahasiswa. Semacam stackoverflow dan brainly dapat memberikan pertanyaan dan saling menjawab. Pengguna dapat memberikan pertanyaan, menambahkan tags, menjawab pertanyaan, dan memberi validasi kepada penjawab. 
  
 Aplikasi ini ditujukan untuk mahasiswa Telkom University untuk saling sharing pengetahuan tanpa ada batasan prodi, jadi seluruh mahasiswa lintas prodi apapun dapat saling bertanya dan memberi jawaban. 
 
