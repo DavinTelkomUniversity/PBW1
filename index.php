@@ -1,4 +1,1 @@
-<?php
-require("cf.php");
-header("Location: ".$url);
-?>
+<?php require("cf.php"); header("Location: ".$url); ?>
